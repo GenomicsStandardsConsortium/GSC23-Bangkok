@@ -73,18 +73,12 @@ navbar:
     path: /sponsorship.html
     visible: True
 deadlines:
-  - date: TBD
-    timezone: TBD
-    text: Submission deadline (extended)
+  - date: 2021-09-01
+    timezone: UST
+    text: Registration will open 
     pass_due: False
-  - date: TBD
-    text: Notification of acceptance
-    pass_due: False
-  - date: TBD
-    text: Camera-ready copy due
-    pass_due: False
-  - date: TBD
-    text: Workshop
+  - date: 2021-11-01
+    text: Registration will close
     pass_due: False
 news:
   - date: 2021-06-18
