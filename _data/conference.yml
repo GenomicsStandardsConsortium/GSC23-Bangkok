@@ -145,15 +145,9 @@ program_committees: # organizing committee
 #  - name: Dr Van-Mai CAO-LORMEAU
 #    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
 #    homepage: 
-  - name: Dr Serge PLANES
+  - name: Serge Planes
     org: Directeur de Recherche Directeur de Recherche -CNRS (The French National Centre for Scientific Research)
     homepage: https://moorea.berkeley.edu/index.php/people/Serge-Planes
-  - name:  
-    org: 
-    homepage: 
-  - name:  
-    org: 
-    homepage: 
 webmaster: #removed from site
   - name: Chris Hunter
     org: GigaDB Director (UK)
