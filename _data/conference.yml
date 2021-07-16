@@ -64,17 +64,16 @@ navbar:
     label: Registration
     path: /registration.html
     visible: True
+#  - id: 4
+#    label: Submission
+#    path: /submission.html
+#    visible: True
   - id: 4
-    label: Submission
-    path: /submission.html
-    visible: True
-  - id: 5
     label: Sponsors
     path: /sponsorship.html
     visible: True
 deadlines:
   - date: 2021-09-01
-    timezone: UST
     text: Registration will open 
     pass_due: False
   - date: 2021-11-01
@@ -146,9 +145,9 @@ program_committees: # organizing committee
 #  - name: Dr Van-Mai CAO-LORMEAU
 #    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
 #    homepage: 
-#  - name: Dr Serge PLANES
-#    org: Directeur de Recherche Directeur de Recherche -CNRS (Moorea)
-#    homepage: 
+  - name: Dr Serge PLANES
+    org: Directeur de Recherche Directeur de Recherche -CNRS (The French National Centre for Scientific Research)
+    homepage: https://moorea.berkeley.edu/index.php/people/Serge-Planes
   - name:  
     org: 
     homepage: 
