@@ -3,7 +3,7 @@ short_title: GSC22
 email: gensc-cig@googlegroups.com
 description: > 
   GSC22 Moorea will be the 22nd meeting of the Genomics Standards Consortium
-location: <a href=https://www.moorea.berkeley.edu/ target=_blank>Gump Research Station</a> on the Island of Moorea, French Polynesia
+location: <a href=https://www.moorea.berkeley.edu/ target=_blank>Gump Research Station</a> & <a href="http://www.criobe.pf/sites/moorea/" target=_blank>CRIOBE</a> on the Island of Moorea, French Polynesia
 date: March 21-26, 2022
 logo_path: ./assets/images/gsc_logo_sml.png
 slideshow:
@@ -80,9 +80,9 @@ news:
   - date: 2021-06-18
     text: Website online
 1sponsors:
-  - name: GSC
-    logo_path: ./assets/images/gsc_logo_sml.png
-    link: http://www.gensc.org
+  - name: GenapSys
+    logo_path: ./assets/images/sponsors/genapsys.jpg
+    link: https://www.genapsys.com/
   - name: 
     logo_path:
     link:
