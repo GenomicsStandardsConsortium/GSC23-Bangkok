@@ -1,11 +1,12 @@
 #Day0
-- date: "2021-11-9"
-  dateReadable: "Tuesday November 9"
+- date: "TBC"
+  dateReadable: "Day0"
   title: "Arrival day"
   link: ""
 #Day1
-- date: "2021-11-10"
-  dateReadable: "Wednesday November 10"
+- date: "TBC"
+#  dateReadable: "Wednesday November 10"
+  dateReadable: "Day 1"
   title: "Arrival, Board Meeting and Welcome Recption"
   link: ""
   timeslots:
@@ -16,8 +17,8 @@
     endTime: "23:00"
     title: "Welcome reception"
 #Day2
-- date: "2021-11-11"
-  dateReadable: "Thursday November 11"
+- date: "TBC"
+  dateReadable: "Day2"
   title: "Societal Challenge: Biodiversity and Climate Change"
   link: ""
   timeslots:
@@ -109,8 +110,8 @@
     title: "Banquet (Tahitian Feast - Atitia Community Center)"
     type: "service" 
 #Day3
-- date: "2021-11-12"
-  dateReadable: "Friday 12th November"
+- date: "TBC"
+  dateReadable: "Day 3"
   title: "Societal Theme: Standards in Human Health and Disease"
   link: ""
   timeslots:
@@ -177,8 +178,8 @@
     title: "Handoff to next meeting (GSC23 Thailand in 2022)"
   - startTime: "16:00"
     title: "Closing reception"  
-#Day 3
-- date: "2021-11-13"
-  dateReadable: "Saturday November 13"
+#Day 4
+- date: "TBC"
+  dateReadable: "Day 4"
   title: "Island Sampling Event: Reef-to-Ridges"
   link: "https://github.com/GenomicsStandardsConsortium/GSC22-Moorea/raw/main/assets/GSC-Moorea-Reef-to-Ridges-final.pdf"
