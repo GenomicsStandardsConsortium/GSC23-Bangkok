@@ -83,9 +83,9 @@ news:
   - name: GenapSys
     logo_path: ./assets/images/sponsors/genapsys.jpg
     link: https://www.genapsys.com/
-  - name: 
-    logo_path:
-    link:
+  - name: Illumina
+    logo_path: ./assets/images/sponsors/illumina.jpg
+    link: https://www.illumina.com/
   - name:
     logo_path: 
     link:
@@ -99,16 +99,16 @@ news:
     logo_path:
     link:
 2sponsors:
-  - name: GSC
-    logo_path: ./assets/images/gsc_logo_sml.png
-    link: http://www.gensc.org
+  - name: New England BioLabs
+    logo_path: ./assets/images/NEB.png
+    link: https://www.neb.com/
   - name: 
     logo_path:
     link:
 3sponsors:
-  - name: GSC
-    logo_path: ./assets/images/gsc_logo_sml.png
-    link: http://www.gensc.org
+  - name: Qiagen
+    logo_path: ./assets/images/qiagen-logo.png
+    link: https://www.qiagen.com/
   - name: 
     logo_path:
     link:
