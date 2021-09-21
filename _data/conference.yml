@@ -100,14 +100,14 @@ news:
     link:
 2sponsors:
   - name: New England BioLabs
-    logo_path: ./assets/images/NEB.png
+    logo_path: ./assets/images/NEB.jpg
     link: https://www.neb.com/
   - name: 
     logo_path:
     link:
 3sponsors:
   - name: Qiagen
-    logo_path: ./assets/images/qiagen-logo.png
+    logo_path: ./assets/images/qiagen-logo.jpg
     link: https://www.qiagen.com/
   - name: 
     logo_path:
