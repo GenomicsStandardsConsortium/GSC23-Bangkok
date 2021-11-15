@@ -86,9 +86,9 @@ news:
   - name: Illumina
     logo_path: ./assets/images/sponsors/illumina.jpg
     link: https://www.illumina.com/
-  - name:
-    logo_path: 
-    link:
+  - name: Zymo Research
+    logo_path: ./assets/images/sponsors/ZymoResearch.jpg
+    link: https://www.zymoresearch.com/
   - name: 
     logo_path:
     link:
