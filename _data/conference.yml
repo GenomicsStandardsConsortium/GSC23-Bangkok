@@ -130,19 +130,19 @@ steering_committees: # removed from site
 program_committees: # organizing committee
   - name: Lynn Scriml
     org: GSC President, University of Maryland School of Medicine (USA)
-    homepage: 
+    homepage: https://www.medschool.umaryland.edu/profiles/Schriml-Lynn/
   - name: Neil Davies
     org: Executive Director of the Gump South Pacific Research Station (Moorea)
-    homepage: 
+    homepage: https://www.linkedin.com/in/neiltahiti/
   - name: Scott Tighe
     org: University of Vermont (USA)
-    homepage: 
+    homepage: https://www.linkedin.com/in/scott-tighe-094058a/
   - name: Ramona Walls  
     org: Critical Path Institute (USA)
-    homepage: 
+    homepage: https://www.linkedin.com/in/ramona-walls-41aa7599/
   - name: Emiley Eloe-Fadrosh
     org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
-    homepage: 
+    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
 #  - name: Dr Van-Mai CAO-LORMEAU
 #    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
 #    homepage: 
@@ -152,5 +152,5 @@ program_committees: # organizing committee
 webmaster: #removed from site
   - name: Chris Hunter
     org: GigaDB Director (UK)
-    homepage: 
+    homepage: https://www.linkedin.com/in/chr1shunter/
 
