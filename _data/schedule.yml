@@ -1,12 +1,12 @@
 #Day0
 - date: "TBC"
-  dateReadable: "Day0"
+  dateReadable: "March 22nd"
   title: "Arrival day"
   link: ""
 #Day1
 - date: "TBC"
 #  dateReadable: "Wednesday November 10"
-  dateReadable: "Day 1"
+  dateReadable: "Wed March 23rd"
   title: "Arrival, Board Meeting and Welcome Recption"
   link: ""
   timeslots:
@@ -18,7 +18,7 @@
     title: "Gump House Welcome reception"
 #Day2
 - date: "TBC"
-  dateReadable: "Day2"
+  dateReadable: "Thurs March 24th"
   title: "Societal Challenge: Biodiversity and Climate Change (at CNRS)"
   link: ""
   timeslots:
@@ -111,7 +111,7 @@
     type: "service" 
 #Day3
 - date: "TBC"
-  dateReadable: "Day 3"
+  dateReadable: "Fri March 25th"
   title: "Societal Theme: Standards in Human Health and Disease (at Gump Station)"
   link: ""
   timeslots:
@@ -185,6 +185,6 @@
     title: "Closing reception"  
 #Day 4
 - date: "TBC"
-  dateReadable: "Day 4"
+  dateReadable: "Sat March 26th"
   title: "Island Sampling Event: Reef-to-Ridges"
   link: "https://github.com/GenomicsStandardsConsortium/GSC22-Moorea/raw/main/assets/GSC-Moorea-Reef-to-Ridges-final.pdf"
