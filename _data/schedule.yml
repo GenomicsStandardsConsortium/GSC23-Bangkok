@@ -1,6 +1,6 @@
 #Day0
 - date: "TBC"
-  dateReadable: "March 22nd"
+  dateReadable: "Tues March 22nd"
   title: "Arrival day"
   link: ""
 #Day1
@@ -127,7 +127,7 @@
     chair: "TBC"    
   - startTime: "8:45"
     endTime: "9:15"
-    title: "Human health surveillance informed by the unique microbiomes of cities"
+    title: "Planetary-scale genomics and space station human health surveillance"
     speaker: "Christopher Mason (Weill Cornell Medicine)"
     abstract: "TBC"
     chair: "TBC"
