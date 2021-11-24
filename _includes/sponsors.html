@@ -1,37 +1,36 @@
-<table>
+
+<table style="width:100%">
   <tr>
-    <th>Pineapple Platinum</th>
-    <th>Gold</th>
-    <th>Silver</th>
-  </tr>
-  <tr>
-    <td><img src="assets/images/pineapple-platinum-sponsor.jpg" alt="Pineapple Platinum Logo" width="200" height="200"></td>
-    <td><img src="assets/images/gold-sponsor.jpg" alt="Gold sponsor Logo" width="200" height="200"></td>
-    <td><img src="assets/images/silver-sponsor.jpg" alt="Silver sponsor Logo" width="200" height="200"></td>
-  </tr>
-  <tr>
-    <td> {% if site.data.conference.1sponsors == nil %}
+    <td style="width:30%"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="200" height="200"></td>
+    <td style="width:70%"> {% if site.data.conference.1sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
         <div class="row">
             {% for 1sponsor in site.data.conference.1sponsors %}
-                <a href="{{ 1sponsor.link }}" target=_blank><img width="200" src="{{ site.baseurl }}{{ 1sponsor.logo_path }}" alt="{{ 1sponsor.name }}"></a>
+                <p><a href="{{ 1sponsor.link }}" target=_blank><img style="display:block" width="200" src="{{ site.baseurl }}{{ 1sponsor.logo_path }}" alt="{{ 1sponsor.name }}"></a></p>
             {% endfor %}
         </div>
         {% endif %}</td>
+</tr>
+<tr>
+    <td><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="200" height="200"></td>
     <td>{% if site.data.conference.2sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
-        <div class="row">
+        <div>
             {% for 2sponsor in site.data.conference.2sponsors %}
                 <a href="{{ 2sponsor.link }}" target=_blank><img width="200" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
             {% endfor %}
         </div>
         {% endif %}</td>
+</tr>
+<tr>
+    <td><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="200" height="200"></td>
+   
     <td>{% if site.data.conference.3sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
@@ -45,51 +44,5 @@
         {% endif %}</td>
   </tr>
 </table>
-
-
-<!-- <div class="row sponsor">
-    <div class="col">
-        <h5>Pineapple Platinum</h5>
-        {% if site.data.conference.1sponsors == nil %}
-        <div class="alert alert-warning rounded text-center m-1">
-            <p>TBA</p>
-        </div>
-        {% else %}
-        <div class="row">
-            {% for 1sponsor in site.data.conference.1sponsors %}
-                <a href="{{ 1sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ 1sponsor.logo_path }}" alt="{{ 1sponsor.name }}"></a><br>
-            {% endfor %}
-        </div>
-        {% endif %}
-    </div>
-	    <div class="col">
-        <h5>Gold</h5>
-        {% if site.data.conference.2sponsors == nil %}
-        <div class="alert alert-warning rounded text-center m-1">
-            <p>TBA</p>
-        </div>
-        {% else %}
-        <div class="row">
-            {% for 2sponsor in site.data.conference.2sponsors %}
-                <a href="{{ 2sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a><br>
-            {% endfor %}
-        </div>
-        {% endif %}
-    </div>
-	    <div class="col">
-        <h5>Silver</h5>
-        {% if site.data.conference.3sponsors == nil %}
-        <div class="alert alert-warning rounded text-center m-1">
-            <p>TBA</p>
-        </div>
-        {% else %}
-        <div class="row">
-            {% for 3sponsor in site.data.conference.3sponsors %}
-                <a href="{{ 3sponsor.link }}" target=_blank><img class="img-fluid mr-auto d-inline-block mb-2 mt-2" src="{{ site.baseurl }}{{ 3sponsor.logo_path }}" alt="{{ 3sponsor.name }}"></a><br>
-            {% endfor %}
-        </div>
-        {% endif %}
-    </div>
-</div>
--->
-
+<br>
+<br>
