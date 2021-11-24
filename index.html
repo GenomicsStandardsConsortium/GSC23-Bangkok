@@ -3,7 +3,8 @@ title: The 22nd Genomics Standards Consortium Workshop
 layout: page
 slide_id: 0
 ---
-<div class="container">
+<div class="card-block bg-faded">
+	<div class="container">
         <div class="col text-muted">
             <div class="text-info"><h5>Genomic Standards in Biodiversity, Climate Change, and Human Health</h5></div>
 
@@ -21,37 +22,27 @@ slide_id: 0
 * Standardizing critical protocols in all related genomic research<br>
  
 <p>To accomplish these goals, the GSC works closely with leading corporations that develop and supply the technologies used by our members. The GSC invites your partnership in our organisation providing you with an opportunity to put your company’s trademark & products in front of these key industry professionals, who have a vested interest in your products. </p>
-
-<!-- <h6>Local Hosts:</h6><p><a href="https://www.moorea.berkeley.edu/" target=_blank >Gump Research Station</a> on the Island of Moorea, French Polynesia </p>
-
-
-                <p>The topics of interest include, but are by no means limited
-                to:</p>
-				<ul>
-                <li>Biodiversity</li>
-                <li>Climate Change</li>
-				<li>Human health</li>
-				</ul>
--->   </div>
-    <div>
-	    <div class="card">
-        <div class="card-header text-white bg-inverse"><strong>Organizing Committee</strong></div>
+		</div>
+		<div>
+			<div class="card">
+				<div class="card-header text-white bg-inverse"><strong>Organizing Committee</strong></div>
         {% if site.data.conference.program_committees %}
         {% for committee in site.data.conference.program_committees %}
-        <div class="card-block bg-faded committee">
+				<div class="card-block bg-faded committee">
             <p><a href="{{ committee.homepage }}"><strong>{{ committee.name }}</strong></a><p>
             <p class="card-subtitle text-muted" style="font-size: 90%;">{{ committee.org }}</p>
-        </div>  
+				</div>  
         {% endfor %}
         {% else %}
-        <div class="card-block bg-faded committee">
+			<div class="card-block bg-faded committee">
             <p><strong>TBA</strong><p>
             <p class="card-subtitle text-muted" style="font-size: 90%;">TBA</p>
-        </div>               
+			</div>               
         {% endif %}
-        </div>
+			</div>
 {% include card-important-dates.html %}
-   </div>
+		</div>
+	</div>
 </div>
 
 
