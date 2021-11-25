@@ -13,7 +13,7 @@ slide_id: 2
         <div>
             <!--<h4 class="schedule-table-heading">Day {{ forloop.index }} - {{ day.dateReadable }}</h4>-->
 			<h5 class="schedule-table-heading">{{ day.dateReadable }}</h5>
-			<h4 class="schedule-table-heading"><a href="{{ day.link }}" target=_blank>{{ day.title }}</a></h4>
+			<h4 class="schedule-table-heading">{{ day.title }}</h4>
             <table class="table table-bordered table-striped table-hover table-responsive table-sm">
             {% for timeslot in day.timeslots %}
                     <thead>
@@ -26,7 +26,7 @@ slide_id: 2
                                             <p class="text-muted">{{timeslot.title}}</p>
                                     </th>
                                 {% else %}
-                                    <th class="bg-light text-center">
+                                    <th class="bg-faded text-center">
                                             <h5>{{timeslot.title}}</h5>
                                             {% if timeslot.speaker %}
                                             <h5 class="accordion">{{timeslot.speaker}}</h5>
@@ -45,7 +45,7 @@ slide_id: 2
                             <tr>
                                 <td width="20%">
                                 </td>
-                                <td>
+                                <td class="bg-faded">
                                     <p class="accordion"><b>{{event.title}}</b></p>
 									<div class="panel"><p>{{event.abstract}}</p></div>
                                     <p><i>{{event.speakers}}</i></p>
