@@ -78,7 +78,10 @@ navbar:
     visible: True
 deadlines:
   - date: 2021-10-01
-    text: Conference dates will be confirmed 
+    text: Conference dates confirmed as 23-26 March 2022
+    pass_due: False
+  - date: 2021-11-01
+    text: Preliminary speaker schedule posted 
     pass_due: False
 news:
   - date: 2021-06-18
