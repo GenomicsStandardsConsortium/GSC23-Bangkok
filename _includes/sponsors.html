@@ -1,48 +1,47 @@
+<img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px">
 
-<table style="width:100%">
-  <tr>
-    <td style="width:30%"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="200" height="200"></td>
-    <td style="width:70%"> {% if site.data.conference.1sponsors == nil %}
+  {% if site.data.conference.1sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
-        <div class="row">
+        <div>
             {% for 1sponsor in site.data.conference.1sponsors %}
-                <p><a href="{{ 1sponsor.link }}" target=_blank><img style="display:block" width="200" src="{{ site.baseurl }}{{ 1sponsor.logo_path }}" alt="{{ 1sponsor.name }}"></a></p>
+                <a href="{{ 1sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:10px 10px" width="200" src="{{ site.baseurl }}{{ 1sponsor.logo_path }}" alt="{{ 1sponsor.name }}"></a>
             {% endfor %}
         </div>
-        {% endif %}</td>
-</tr>
-<tr>
-    <td><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="200" height="200"></td>
-    <td>{% if site.data.conference.2sponsors == nil %}
+        {% endif %}
+		
+<div style="text-align: justify">
+<img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/gold-sponsor.png" alt="Gold sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px">
+
+
+
+    {% if site.data.conference.2sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
         <div>
             {% for 2sponsor in site.data.conference.2sponsors %}
-                <a href="{{ 2sponsor.link }}" target=_blank><img width="200" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
+                <a href="{{ 2sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:20px 20px"width="180" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
             {% endfor %}
         </div>
-        {% endif %}</td>
-</tr>
-<tr>
-    <td><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="200" height="200"></td>
-   
-    <td>{% if site.data.conference.3sponsors == nil %}
+        {% endif %}
+</div>
+
+<img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px">
+
+    {% if site.data.conference.3sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
-        <div class="row">
+        <div>
             {% for 3sponsor in site.data.conference.3sponsors %}
-                <a href="{{ 3sponsor.link }}" target=_blank><img width="200" src="{{ site.baseurl }}{{ 3sponsor.logo_path }}" alt="{{ 3sponsor.name }}"></a>
+                <a href="{{ 3sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:30px 30px"width="160" src="{{ site.baseurl }}{{ 3sponsor.logo_path }}" alt="{{ 3sponsor.name }}"></a>
             {% endfor %}
         </div>
-        {% endif %}</td>
-  </tr>
-</table>
+        {% endif %}
 <br>
 <br>
