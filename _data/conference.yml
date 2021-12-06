@@ -88,33 +88,30 @@ news:
     text: Website online
 1sponsors:
   - name: GenapSys
-    logo_path: ./assets/images/sponsors/genapsys.jpg
+    logo_path: ./assets/images/sponsors/genapsys-pineapple-ring.png
     link: https://www.genapsys.com/
   - name: Illumina
-    logo_path: ./assets/images/sponsors/illumina.jpg
+    logo_path: ./assets/images/sponsors/illumina-pineapple-ring.png
     link: https://www.illumina.com/
   - name: Zymo Research
-    logo_path: ./assets/images/sponsors/ZymoResearch.jpg
+    logo_path: ./assets/images/sponsors/ZymoResearch-pineapple-ring.png
     link: https://www.zymoresearch.com/
   - name: 
     logo_path:
     link:
-  - name:
-    logo_path:
-    link:
-  - name:
-    logo_path:
-    link:
 2sponsors:
   - name: New England BioLabs
-    logo_path: ./assets/images/sponsors/NEB.jpg
+    logo_path: ./assets/images/sponsors/neb-gold-ring.png
     link: https://www.neb.com/
+  - name: PacBio
+    logo_path: assets/images/sponsors/pacbio-gold-ring.png
+    link: https://www.pacb.com/
   - name: 
-    logo_path:
+    logo_path: 
     link:
 3sponsors:
   - name: Qiagen
-    logo_path: ./assets/images/sponsors/QLogo_RGB1000x843px.png
+    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
     link: https://www.qiagen.com/
   - name: 
     logo_path:
