@@ -87,7 +87,7 @@ news:
   - date: 2021-06-18
     text: Website online
 1sponsors:
-  - name: Genapsys
+  - name: GenapSys
     logo_path: ./assets/images/sponsors/genapsys-pineapple-ring.png
     link: https://www.genapsys.com/
   - name: Illumina
