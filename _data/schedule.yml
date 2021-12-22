@@ -2,7 +2,7 @@
 - date: "TBC"
 #  dateReadable: "Wednesday November 10"
   dateReadable: "Wed March 23rd"
-  title: "Arrival, Board Meeting and Welcome Recption"
+  title: "Arrival, Board Meeting and Welcome Reception"
   link: ""
   timeslots:
   - startTime: "9am"
@@ -30,7 +30,7 @@
     chair: "TBC"
   - startTime: "8:45"
     endTime: "9:00"
-    title: "PLATINUM Sponsor Presentation - GenApSys"
+    title: "PLATINUM Sponsor Presentation - Genapsys"
     type: "service"
   - startTime: "9:00"
     endTime: "10:00"
