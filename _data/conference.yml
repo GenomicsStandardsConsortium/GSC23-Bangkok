@@ -96,9 +96,9 @@ news:
   - name: Zymo Research
     logo_path: ./assets/images/sponsors/ZymoResearch-pineapple-ring.png
     link: https://www.zymoresearch.com/
-  - name: 
-    logo_path:
-    link:
+  - name: InnovaPrep LLC.
+    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
+    link: https://www.innovaprep.com/
 2sponsors:
   - name: New England BioLabs
     logo_path: ./assets/images/sponsors/neb-gold-ring.png
@@ -108,7 +108,7 @@ news:
     link: https://www.pacb.com/
   - name: 
     logo_path: 
-    link:
+    link: 
 3sponsors:
   - name: Qiagen
     logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
