@@ -13,7 +13,7 @@
     title: "Gump House -Board Dinner with sponsors"
 #Day2
 - date: "TBC"
-  dateReadable: "Thurs March 24th"
+  dateReadable: "Thurs March 24th- CRIOBE"
   title: "Societal Challenge: Biodiversity and Climate Change (at CNRS)"
   link: ""
   timeslots:
@@ -104,6 +104,11 @@
     speaker: "Dr Janina Krumbeck"
     type: "service"
   - startTime: "12:15"
+    endTime: "12:30"
+    title: "PLATINUM Sponsor Presentation - Innovaprep"
+    speaker: "Andy Page"
+    type: "service"
+  - startTime: "12:30"
     endTime: "13:30"
     title: "Lunch"
     type: "service"
@@ -118,7 +123,7 @@
     type: "service" 
 #Day3
 - date: "TBC"
-  dateReadable: "Fri March 25th"
+  dateReadable: "Fri March 25th - Gump Station"
   title: "Societal Theme: Standards in Human Health and Disease (at Gump Station)"
   link: ""
   timeslots:
