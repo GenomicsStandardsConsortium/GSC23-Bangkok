@@ -13,7 +13,7 @@ slide_id: 2
         <div>
             <!--<h4 class="schedule-table-heading">Day {{ forloop.index }} - {{ day.dateReadable }}</h4>-->
 			<h5 class="schedule-table-heading">{{ day.dateReadable }}</h5>
-			<h4 class="schedule-table-heading"><a href="{{day.link}}" target_blank>{{ day.title }}</a></h4>
+			<h5 class="schedule-table-heading"><a href="{{day.link}}" target_blank>{{ day.title }}</a></h5>
             <table class="table table-bordered table-striped table-hover table-responsive table-sm">
             {% for timeslot in day.timeslots %}
                     <thead>
