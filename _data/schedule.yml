@@ -35,7 +35,7 @@
   - startTime: "9:00"
     endTime: "10:15"
     title: "Topic 1: Biodiversity of islands, coral reef, and impacts of climate change (Oceans)"
-    chair: "TBC"
+    chair: "Ramona Walls"
     type: "presentation"
     events: 
       - title: "NextGen Biodiversity Monitoring of invasive Alien Arthropods across the Pacific "
@@ -75,9 +75,9 @@
     endTime: "12:15"
     title: "Topic 2: Aligning standards: Environment and Health"
     type: "presentation"
-    chair: "TBC"
+    chair: "Emiley Eloe-Fadrosh"
     events: 
-      - title: "MIxS 6, new checklists/packages, FDA food package"
+      - title: "MIxS updates: bringing MIxS into the 21st century"
         link: ""
         abstract: "TBC"
         speakers: "Ramona Walls (Critical Path Institute)"
@@ -137,6 +137,7 @@
     title: "Welcome and Logistics"
     speaker: "Neil Davies, Lynn Schriml"
     abstract: "All keynotes are 25 minutes plus 5 minutes for Q&A. All other presentations are 12 minutes plus 3 minutes for Q&A"
+    chair: "Scott Tighe"
   - startTime: "8:15"
     endTime: "8:45"
     title: "Keynote: TBC"
@@ -166,7 +167,7 @@
     endTime: "12:00"
     title: "Aligning Standards: Microbiome, Health, and Environment "
     type: "presentation"
-    chair: "TBC"
+    chair: "Nikos Kyrpides"
     events:
       - title: "U.S. National Microbiome Data Collaborative"
         link: ""
