@@ -1,16 +1,17 @@
-full_title: The 22nd Genomics Standards Consortium Workshop
-short_title: GSC22
-email: GSC22-Moorea@googlegroups.com
+full_title: The 23rd Genomics Standards Consortium Workshop 
+short_title: GSC23
+email: GSC23-Bangkok@googlegroups.com
 description: > 
-  GSC22 Moorea will be the 22nd meeting of the Genomics Standards Consortium
-location: <a href=https://www.moorea.berkeley.edu/ target=_blank>Gump Research Station</a> & <a href="http://www.criobe.pf/sites/moorea/" target=_blank>CRIOBE</a> on the Island of Moorea, French Polynesia
-date: March 23-26, 2022
+  GSC23 Bangkok will be the 23rd meeting of the Genomics Standards Consortium
+location: <a href="https://www2.si.mahidol.ac.th/en/" target=_blank >Faculty of Medicine Siriraj Hospital at Mahidol University</a> and the <a href="http://www.biotec.or.th/en/" target=_blank >National Center for Genetic Engineering and Biotechnology (BIOTEC/NSTDA)</a>
+ in Bangkok, Thailand.
+date: July 7-11, 20223
 logo_path: ./assets/images/gsc_logo_sml.png
 slideshow:
   - id: 0
     image_path: ./assets/images/slideshow/image0.jpg
-    description: "Island of Moorea, French Polynesia"
-    photographer_name: "N Davies"
+    description: "Bangkok, Thailand"
+    photographer_name: "unknown"
     photographer_link: 
     active: True
   - id: 1
@@ -77,45 +78,45 @@ navbar:
     path: /covid.html
     visible: True
 deadlines:
-  - date: 2021-10-01
-    text: Conference dates confirmed as 23-26 March 2022
+  - date: 2022-09-09
+    text: Conference dates confirmed as 7-11 July 2023
     pass_due: False
-  - date: 2021-11-01
-    text: Preliminary speaker schedule posted 
-    pass_due: False
+#  - date: 2021-11-01
+#    text: Preliminary speaker schedule posted 
+#    pass_due: False
 news:
-  - date: 2021-06-18
+  - date: 2022-09-09
     text: Website online
 1sponsors:
-  - name: Genapsys
-    logo_path: ./assets/images/sponsors/genapsys-pineapple-ring.png
-    link: https://www.genapsys.com/
-  - name: Illumina
-    logo_path: ./assets/images/sponsors/illumina-pineapple-ring.png
-    link: https://www.illumina.com/
-  - name: Zymo Research
-    logo_path: ./assets/images/sponsors/ZymoResearch-pineapple-ring.png
-    link: https://www.zymoresearch.com/
-  - name: InnovaPrep LLC.
-    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
-    link: https://www.innovaprep.com/
+#  - name: Genapsys
+#    logo_path: ./assets/images/sponsors/genapsys-pineapple-ring.png
+#    link: https://www.genapsys.com/
+#  - name: Illumina
+#    logo_path: ./assets/images/sponsors/illumina-pineapple-ring.png
+#    link: https://www.illumina.com/
+#  - name: Zymo Research
+#    logo_path: ./assets/images/sponsors/ZymoResearch-pineapple-ring.png
+#    link: https://www.zymoresearch.com/
+#  - name: InnovaPrep LLC.
+#    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
+#    link: https://www.innovaprep.com/
 2sponsors:
-  - name: New England BioLabs
-    logo_path: ./assets/images/sponsors/neb-gold-ring.png
-    link: https://www.neb.com/
-  - name: PacBio
-    logo_path: assets/images/sponsors/pacbio-gold-ring.png
-    link: https://www.pacb.com/
-  - name: 
-    logo_path: 
-    link: 
+#  - name: New England BioLabs
+#    logo_path: ./assets/images/sponsors/neb-gold-ring.png
+#    link: https://www.neb.com/
+#  - name: PacBio
+#    logo_path: assets/images/sponsors/pacbio-gold-ring.png
+#    link: https://www.pacb.com/
+#  - name: 
+#    logo_path: 
+#    link: 
 3sponsors:
-  - name: Qiagen
-    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
-    link: https://www.qiagen.com/
-  - name: 
-    logo_path:
-    link:
+#  - name: Qiagen
+#    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
+#    link: https://www.qiagen.com/
+#  - name: 
+#    logo_path:
+#    link:
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
@@ -131,24 +132,24 @@ program_committees: # organizing committee
   - name: Lynn Schriml
     org: GSC President, University of Maryland School of Medicine (USA)
     homepage: https://www.medschool.umaryland.edu/profiles/Schriml-Lynn/
-  - name: Neil Davies
-    org: Executive Director of the Gump South Pacific Research Station (Moorea)
-    homepage: https://www.linkedin.com/in/neiltahiti/
+#  - name: Neil Davies
+ #   org: Executive Director of the Gump South Pacific Research Station (Moorea)
+ #   homepage: https://www.linkedin.com/in/neiltahiti/
   - name: Scott Tighe
     org: University of Vermont (USA)
     homepage: https://www.linkedin.com/in/scott-tighe-094058a/
   - name: Ramona Walls  
     org: Critical Path Institute (USA)
     homepage: https://www.linkedin.com/in/ramona-walls-41aa7599/
-  - name: Emiley Eloe-Fadrosh
-    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
-    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
+#  - name: Emiley Eloe-Fadrosh
+#    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
+#    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
 #  - name: Dr Van-Mai CAO-LORMEAU
 #    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
 #    homepage: 
-  - name: Serge Planes
-    org: Directeur de Recherche Directeur de Recherche -CNRS (The French National Centre for Scientific Research)
-    homepage: https://moorea.berkeley.edu/index.php/people/Serge-Planes
+#  - name: Serge Planes
+#    org: Directeur de Recherche Directeur de Recherche -CNRS (The French National Centre for Scientific Research)
+#    homepage: https://moorea.berkeley.edu/index.php/people/Serge-Planes
 webmaster: #removed from site
   - name: Chris Hunter
     org: GigaDB Director (UK)
