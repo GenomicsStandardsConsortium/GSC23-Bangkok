@@ -5,7 +5,7 @@ description: >
   GSC23 Bangkok will be the 23rd meeting of the Genomics Standards Consortium
 location: <a href="https://www2.si.mahidol.ac.th/en/" target=_blank >Faculty of Medicine Siriraj Hospital at Mahidol University</a> and the <a href="http://www.biotec.or.th/en/" target=_blank >National Center for Genetic Engineering and Biotechnology (BIOTEC/NSTDA)</a>
  in Bangkok, Thailand.
-date: July 7-11, 20223
+date: August 7-11, 20223
 logo_path: ./assets/images/gsc_logo_sml.png
 slideshow:
   - id: 0
@@ -78,8 +78,8 @@ navbar:
     path: /covid.html
     visible: True
 deadlines:
-  - date: 2022-09-09
-    text: Conference dates confirmed as 7-11 July 2023
+  - date: 2022-09-22
+    text: Conference dates confirmed as 7-11 August 2023
     pass_due: False
 #  - date: 2021-11-01
 #    text: Preliminary speaker schedule posted 
@@ -141,6 +141,9 @@ program_committees: # organizing committee
   - name: Ramona Walls  
     org: Critical Path Institute (USA)
     homepage: https://www.linkedin.com/in/ramona-walls-41aa7599/
+  - name: Chris Hunter
+    org: GigaDB Director (UK)
+    homepage: https://www.linkedin.com/in/chr1shunter/
 #  - name: Emiley Eloe-Fadrosh
 #    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
 #    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
