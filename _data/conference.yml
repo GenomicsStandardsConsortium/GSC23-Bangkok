@@ -28,7 +28,7 @@ slideshow:
     active: True
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
-    description: "Sign"
+    description: ""
     photographer_name: "N Davies"
     photographer_link: 
     active: True
