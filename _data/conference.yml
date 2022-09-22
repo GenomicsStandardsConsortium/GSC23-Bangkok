@@ -28,20 +28,20 @@ slideshow:
     active: True
   - id: 3
     image_path: ./assets/images/slideshow/image3.jpg
-    description: ""
-    photographer_name: "N Davies"
+    description: "Bangkok: Grand Palace"
+    photographer_name: "Encyclopædia Britannica"
     photographer_link: 
     active: True
   - id: 4
     image_path: ./assets/images/slideshow/image4.jpg
-    description: "Scenery"
-    photographer_name: "N Davies"
+    description: "Siriraj Hospital and Mahidol University at Bangkok Noi Campus, Thailand"
+    photographer_name: "ScorpianPK, WikiMedia commons"
     photographer_link: 
     active: True
   - id: 5
     image_path: ./assets/images/slideshow/image5.jpg
-    description: "UC Berkeley Gump Research Station, Moorea"
-    photographer_name: "N Davies"
+    description: "Mahidol University logo"
+    photographer_name: ""
     photographer_link: 
     active: True
 navbar:
