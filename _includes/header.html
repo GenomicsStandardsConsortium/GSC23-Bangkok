@@ -9,7 +9,7 @@
                 <img class="img-fluid" src="{{ site.data.conference.logo_path }}">
                 <h5 class="text-center mt-0">{{ site.data.conference.date }}</h5>
                 <p class="text-center mt-2 mb-2">{{ site.data.conference.full_title }}</p>
-                <p><font size="-1">{{ site.data.conference.location }}</font size></p>
+                <p class="text-center"><font size="-1">{{ site.data.conference.location }}</font size></p>
             </div>
 
         </div>     
@@ -29,8 +29,8 @@
                             {% endif %}
                                 <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
                                 <img class="img-fluid" src="{{ slide.image_path }}" alt="{{ slide.description }}">
-                                <div class="carousel-caption d-none d-md-block text-muted">
-                                    <p class="overlay"> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>, 
+                                <div class="overlay">
+                                    <p> {{ slide.description }}, by <a href="{{ slide.photographer_link }}">{{slide.photographer_name}}</a>, 
                                         under <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">Creative Commons license</a>.
                                     </p>
                                 </div>
