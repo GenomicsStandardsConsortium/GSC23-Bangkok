@@ -21,7 +21,7 @@
 
 
 .jumbotron p {
-    font-size: 1.1em;
+    font-size: 1.0em;
 }
 .jumbotron h5 {
     font-size: 1.6em;
@@ -38,12 +38,12 @@
 
 .carousel-caption {
     bottom: 1rem;
-    opacity: 0.9;
+    opacity: 0.7;
     height: 1rem;
 }
 
 .carousel-caption p {
-    font-size: 0.2rem;
+    font-size: 0.5rem;
 }
 
 .card {
