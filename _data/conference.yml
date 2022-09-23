@@ -132,9 +132,9 @@ program_committees: # organizing committee
   - name: Lynn Schriml
     org: GSC President, University of Maryland School of Medicine (USA)
     homepage: https://www.medschool.umaryland.edu/profiles/Schriml-Lynn/
-#  - name: Neil Davies
- #   org: Executive Director of the Gump South Pacific Research Station (Moorea)
- #   homepage: https://www.linkedin.com/in/neiltahiti/
+  - name: Sakda Khoomrung
+    org: Metabolomics and Systems Biology, Department of Biochemistry, Siriraj Metabolomics and Phenomics Center (SiMPC)
+    homepage: http://metsysbio.com/index.html
   - name: Scott Tighe
     org: University of Vermont (USA)
     homepage: https://www.linkedin.com/in/scott-tighe-094058a/
