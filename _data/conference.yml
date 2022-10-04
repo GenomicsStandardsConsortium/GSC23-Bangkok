@@ -144,6 +144,9 @@ program_committees: # organizing committee
   - name: Chris Hunter
     org: GigaDB Director (UK)
     homepage: https://www.linkedin.com/in/chr1shunter/
+  - name: Thidathip Wongsurawat
+    org: Mahidol University, Thailand
+    homepage: https://www.linkedin.com/in/thidathip-wongsurawat/
 #  - name: Emiley Eloe-Fadrosh
 #    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
 #    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
