@@ -1,5 +1,3 @@
-<!--<img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/pineapple-platinum-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Pineapple Platinum Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px">
--->
 <img src="assets/images/platinum-elephant-sponsor.png" alt="Platinum Elephant Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Platinum Elephant Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Platinum Elephant Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/platinum-elephant-sponsor.png" alt="Platinum Elephant Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
 
   {% if site.data.conference.1sponsors == nil %}
@@ -31,8 +29,8 @@
         </div>
         {% endif %}
 </div>
-
-<img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px"><img src="assets/images/silver-sponsor.png" alt="Silver sponsor Logo" width="50" height="50" style="vertical-align:middle;margin:10px 10px">
+<div style="text-align: justify">
+<img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
 
     {% if site.data.conference.3sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
@@ -45,5 +43,21 @@
             {% endfor %}
         </div>
         {% endif %}
+</div>
+<div style="text-align: justify">
+<img src="assets/images/bronze-noodles-sponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/bronze-noodles-sponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/bronze-noodles-sponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/bronze-noodles-sponsor.png" alt="Bronze sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
+
+  {% if site.data.conference.1sponsors == nil %}
+        <div class="alert alert-warning rounded text-center m-1">
+            <p>TBA</p>
+        </div>
+        {% else %}
+        <div>
+            {% for 1sponsor in site.data.conference.1sponsors %}
+                <a href="{{ 4sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:10px 10px" width="200" src="{{ site.baseurl }}{{ 4sponsor.logo_path }}" alt="{{ 4sponsor.name }}"></a>
+            {% endfor %}
+        </div>
+        {% endif %}
+</div>
 <br>
 <br>
