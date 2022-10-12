@@ -154,15 +154,16 @@ program_committees: # organizing committee
   - name: Thidathip Wongsurawat
     org: Mahidol University, Thailand
     homepage: https://www.linkedin.com/in/thidathip-wongsurawat/
+  - name: Manop Pithukpakorn
+    org: Mahidol University, Thailand
+    homepage: https://www.linkedin.com/in/manopsi/?originalSubdomain=th
 #  - name: Emiley Eloe-Fadrosh
 #    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
 #    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
-#  - name: Dr Van-Mai CAO-LORMEAU
-#    org: Director, LIV (Laboratory of research on Infectious Vector-borne diseases) INSTITUT LOUIS MALARDE (TAHITI)
+#  - name: 
+#    org: 
 #    homepage: 
-#  - name: Serge Planes
-#    org: Directeur de Recherche Directeur de Recherche -CNRS (The French National Centre for Scientific Research)
-#    homepage: https://moorea.berkeley.edu/index.php/people/Serge-Planes
+
 webmaster: #removed from site
   - name: Chris Hunter
     org: GigaDB Director (UK)
