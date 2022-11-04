@@ -15,15 +15,15 @@ slideshow:
     photographer_link: 
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: "GSC21-half1-participants"
-    photographer_name: "GSC"
+    image_path: ./assets/images/slideshow/city2.jpg
+    description: "Bangkok city skyline"
+    photographer_name: "Siriraj"
     photographer_link: 
     active: True
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: "GSC21-half2-participants"
-    photographer_name: "GSC"
+    image_path: ./assets/images/slideshow/LINE_ALBUM_221029_3.jpg
+    description: "Bangkok shrine"
+    photographer_name: "Siriraj"
     photographer_link: 
     active: True
   - id: 3
@@ -42,6 +42,18 @@ slideshow:
     image_path: ./assets/images/slideshow/image5.jpg
     description: "Mahidol University logo"
     photographer_name: ""
+    photographer_link: 
+    active: True
+  - id: 6
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: "GSC21-half1-participants"
+    photographer_name: "GSC"
+    photographer_link: 
+    active: True
+  - id: 7
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: "GSC21-half2-participants"
+    photographer_name: "GSC"
     photographer_link: 
     active: True
 navbar:
