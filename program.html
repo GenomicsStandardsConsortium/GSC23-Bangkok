@@ -6,8 +6,8 @@ slide_id: 2
 <div class="row">
 
     <div class="col">
-
-<p>Click <a href="https://github.com/GenomicsStandardsConsortium/GSC23-Bangkok/raw/main/assets/GSC23-meeting-booklet.pdf"><font color="black">here</a> to download a PDF of the schedule</p>    
+        <div class="bg-faded">
+        <p>Click <a href="https://github.com/GenomicsStandardsConsortium/GSC23-Bangkok/raw/main/assets/GSC23-meeting-booklet.pdf"><font color="black">here</a> to download a PDF of the schedule</p>    
 
         {% for day in site.data.schedule %}
         <div>
@@ -62,6 +62,7 @@ slide_id: 2
 		<div class="card-block bg-faded">
         {% include contact-us.html %}
 		</div>
+        </div>
     </div>
 	<script>
 		var acc = document.getElementsByClassName("accordion");
