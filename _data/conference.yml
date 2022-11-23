@@ -160,10 +160,10 @@ steering_committees: # removed from site (local hosts)
     org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
     homepage: https://www.biotec.or.th/home/en/biotec-home-2021-en/
   - name: Bhoom Suktitipat 
-    org: Mahidol University, Thailan
+    org: Mahidol University, Thailand
     homepage: 
   - name: Varodom Charoensawan (PhD) 
-    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    org: Mahidol University, Thailand
     homepage: https://sites.google.com/site/mahidolsysbio 
   - name: Nitsara Karoonuthaisiri (PhD)
     org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
@@ -197,10 +197,10 @@ program_committees: # organizing committee
     org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
     homepage: https://www.biotec.or.th/home/en/biotec-home-2021-en/
   - name: Bhoom Suktitipat 
-    org: Mahidol University, Thailan
-    homepage: 
+    org: Mahidol University, Thailand
+    homepage: https://sites.google.com/site/mahidolsysbio
   - name: Varodom Charoensawan (PhD) 
-    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    org: Mahidol University, Thailand
     homepage: https://sites.google.com/site/mahidolsysbio 
   - name: Nitsara Karoonuthaisiri (PhD)
     org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
