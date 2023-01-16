@@ -15,15 +15,15 @@ slideshow:
     photographer_link: 
     active: True
   - id: 1
-    image_path: ./assets/images/slideshow/image1.jpg
-    description: "GSC21-half1-participants"
-    photographer_name: "GSC"
+    image_path: ./assets/images/slideshow/city2.jpg
+    description: "Bangkok city skyline"
+    photographer_name: "Siriraj"
     photographer_link: 
     active: True
   - id: 2
-    image_path: ./assets/images/slideshow/image2.jpg
-    description: "GSC21-half2-participants"
-    photographer_name: "GSC"
+    image_path: ./assets/images/slideshow/LINE_ALBUM_221029_3.jpg
+    description: "Bangkok shrine"
+    photographer_name: "Siriraj"
     photographer_link: 
     active: True
   - id: 3
@@ -42,6 +42,18 @@ slideshow:
     image_path: ./assets/images/slideshow/image5.jpg
     description: "Mahidol University logo"
     photographer_name: ""
+    photographer_link: 
+    active: True
+  - id: 6
+    image_path: ./assets/images/slideshow/image1.jpg
+    description: "GSC21-half1-participants"
+    photographer_name: "GSC"
+    photographer_link: 
+    active: True
+  - id: 7
+    image_path: ./assets/images/slideshow/image2.jpg
+    description: "GSC21-half2-participants"
+    photographer_name: "GSC"
     photographer_link: 
     active: True
 navbar:
@@ -131,10 +143,31 @@ program_chair: # removed from site
   - name: 
     org: 
     homepage: 
-steering_committees: # removed from site
-  - name: 
-    org: 
+steering_committees: # removed from site (local hosts)
+  - name: Manop Pithukpakorn
+    org: Mahidol University, Thailand
+    homepage: https://www.linkedin.com/in/manopsi/?originalSubdomain=th
+  - name: Sakda Khoomrung
+    org: Metabolomics and Systems Biology, Department of Biochemistry, Siriraj Metabolomics and Phenomics Center (SiMPC)
+    homepage: http://metsysbio.com/index.html
+  - name: Thidathip Wongsurawat
+    org: Mahidol University, Thailand
+    homepage: https://www.linkedin.com/in/thidathip-wongsurawat/
+  - name: Yongyut Sirivatanauksorn
+    org: Mahidol University, Thailand
+    homepage: https://www.si.mahidol.ac.th/th/research-academics/research/simpc/index.html
+  - name: Wonnop Visessnguan
+    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    homepage: https://www.biotec.or.th/home/en/biotec-home-2021-en/
+  - name: Bhoom Suktitipat 
+    org: Mahidol University, Thailand
     homepage: 
+  - name: Varodom Charoensawan (PhD) 
+    org: Mahidol University, Thailand
+    homepage: https://sites.google.com/site/mahidolsysbio 
+  - name: Nitsara Karoonuthaisiri (PhD)
+    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    homepage: https://www.biotec.or.th/ijc-foodsec/ 
 program_committees: # organizing committee
   - name: Lynn Schriml
     org: GSC President, University of Maryland School of Medicine (USA)
@@ -157,6 +190,21 @@ program_committees: # organizing committee
   - name: Manop Pithukpakorn
     org: Mahidol University, Thailand
     homepage: https://www.linkedin.com/in/manopsi/?originalSubdomain=th
+  - name: Yongyut Sirivatanauksorn
+    org: Mahidol University, Thailand
+    homepage: https://www.si.mahidol.ac.th/th/research-academics/research/simpc/index.html
+  - name: Wonnop Visessnguan
+    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    homepage: https://www.biotec.or.th/home/en/biotec-home-2021-en/
+  - name: Bhoom Suktitipat 
+    org: Mahidol University, Thailand
+    homepage: https://sites.google.com/site/mahidolsysbio
+  - name: Varodom Charoensawan 
+    org: Mahidol University, Thailand
+    homepage: https://sites.google.com/site/mahidolsysbio 
+  - name: Nitsara Karoonuthaisiri
+    org: The National Center for Genetic Engineering and Biotechnology (BIOTEC)
+    homepage: https://www.biotec.or.th/ijc-foodsec/ 
 #  - name: Emiley Eloe-Fadrosh
 #    org: National Microbiome Data Collaborative, Joint Genome Institute (USA)
 #    homepage: https://www.linkedin.com/in/emiley-eloe-fadrosh-30670996/
