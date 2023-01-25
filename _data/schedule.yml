@@ -16,8 +16,7 @@
 #Day1
 - date: "TBC"
   dateReadable: "Tuesday August 8th"
-  title: "(1) Genomic Standards for Precision Medicine & 
-  (2) Publishing and Database Perspectives"
+  title: "(1) Genomic Standards for Precision Medicine & (2) Publishing and Database Perspectives"
   link: ""
   timeslots:
   - startTime: "8:30"
@@ -137,8 +136,7 @@
 #Day2
 - date: "TBC"
   dateReadable: "Wednesday August 9th"
-  title: "(3) Metabolomics & 
-  (4) Agriculture Microbiomes"
+  title: "(3) Metabolomics & (4) Agriculture Microbiomes"
   link: ""
   timeslots:
   - startTime: "9:00"
@@ -147,13 +145,13 @@
     speaker: "Lynn Schriml + local host"
     abstract: "All keynotes are 25 minutes plus 5 minutes for Q&A. All other presentations are 12 minutes plus 3 minutes for Q&A."
     chair: "TBC"
- - startTime: "9:15"
+  - startTime: "9:15"
     endTime: "9:45"
     title: "Standards in Metabolomics Keynote TBC"
     speaker: "TBC"
     abstract: "Abstract TBC"
     chair: "Sakda"
- - startTime: "9:45"
+  - startTime: "9:45"
     endTime: "10:45"
     title: "Session 3: Metabolomics standards in clinical research"
     chair: "Sakda ()"
