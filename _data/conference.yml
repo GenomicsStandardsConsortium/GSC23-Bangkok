@@ -100,28 +100,34 @@ news:
   - date: 2022-09-09
     text: Website online
 1sponsors:
-#  - name: Genapsys
-#    logo_path: ./assets/images/sponsors/genapsys-pineapple-ring.png
-#    link: https://www.genapsys.com/
-#  - name: Illumina
-#    logo_path: ./assets/images/sponsors/illumina-pineapple-ring.png
-#    link: https://www.illumina.com/
-#  - name: Zymo Research
-#    logo_path: ./assets/images/sponsors/ZymoResearch-pineapple-ring.png
-#    link: https://www.zymoresearch.com/
+  - name: DKSH Technology Limited
+    logo_path: ./assets/images/sponsors/DKSH_Technology_Ltd.png
+    link: https://www.dksh.com/th-th/home/technology
+  - name: RI Technologies Ltd
+    logo_path: ./assets/images/sponsors/RI_Technologies_Ltd.png
+    link: www.ri.co.th
+#  - name: GenePlus Co., Ltd.
+#    logo_path: ./assets/images/sponsors/
+#    link: 
 #  - name: InnovaPrep LLC.
 #    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
 #    link: https://www.innovaprep.com/
 2sponsors:
-#  - name: New England BioLabs
-#    logo_path: ./assets/images/sponsors/neb-gold-ring.png
-#    link: https://www.neb.com/
-#  - name: PacBio
-#    logo_path: assets/images/sponsors/pacbio-gold-ring.png
-#    link: https://www.pacb.com/
-#  - name: 
-#    logo_path: 
-#    link: 
+  - name: LECO Instruments (Thailand) Ltd.
+    logo_path: ./assets/images/sponsors/LECO_Instruments_Thailand_Ltd.png
+    link:  www.leco.co.th
+  - name: Bio-Active Co., Ltd.
+    logo_path: ./assets/images/sponsors/Bio-Active_Co_Ltd.png
+    link: www.bio-active.co.th
+  - name: Roche Diagnostics (Thailand) Ltd.
+    logo_path: ./assets/images/sponsors/Roche_Diagnostics_Thailand_Ltd.png
+    link: https://sequencing.roche.com/global/en/products/group/avenio-tumor-tissue-cgp-kit.html
+  - name: Biodesign co.,ltd
+    logo_path: ./assets/images/sponsors/Biodesign_Co_Ltd.png
+    link: www.biodesign.co.th
+  - name: NanoString Technologies, Inc.
+    logo_path: ./assets/images/sponsors/NanoString_Technologies_Inc.png
+    link: https://nanostring.com/
 3sponsors:
 #  - name: Qiagen
 #    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
