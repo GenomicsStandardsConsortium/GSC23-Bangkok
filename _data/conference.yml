@@ -100,15 +100,15 @@ news:
   - date: 2022-09-09
     text: Website online
 1sponsors:
-  - name: DKSH Technology Limited
-    logo_path: ./assets/images/sponsors/DKSH_Technology_Ltd.png
-    link: https://www.dksh.com/th-th/home/technology
+  - name: Waters
+    logo_path: ./assets/images/sponsors/waters-logo.png
+    link: https://www.waters.com/nextgen/se/en.html
   - name: RI Technologies Ltd
     logo_path: ./assets/images/sponsors/RI_Technologies_Ltd.png
     link: www.ri.co.th
-#  - name: GenePlus Co., Ltd.
-#    logo_path: ./assets/images/sponsors/
-#    link: 
+  - name: GenePlus Co., Ltd.
+    logo_path: ./assets/images/sponsors/Gene-Plus-logo.png
+    link: http://www.gene-plus.com/
 #  - name: InnovaPrep LLC.
 #    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
 #    link: https://www.innovaprep.com/
@@ -124,10 +124,13 @@ news:
     link: https://sequencing.roche.com/global/en/products/group/avenio-tumor-tissue-cgp-kit.html
   - name: Biodesign co.,ltd
     logo_path: ./assets/images/sponsors/Biodesign_Co_Ltd.png
-    link: www.biodesign.co.th
+    link: https://www.biodesign.co.th/
   - name: NanoString Technologies, Inc.
     logo_path: ./assets/images/sponsors/NanoString_Technologies_Inc.png
     link: https://nanostring.com/
+  - name: Gibthai Co.,Ltd
+    logo_path: ./assets/images/sponsors/Gibthai_Co_Ltd.png
+    link: https://www.gibthai.com
 3sponsors:
 #  - name: Qiagen
 #    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
