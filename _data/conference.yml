@@ -139,9 +139,9 @@ news:
 #    logo_path:
 #    link:
 4sponsors:
-#  - name: 
-#    logo_path:
-#    link:
+  - name: RNA Assist
+    logo_path: ./assets/images/sponsors/RNAAssist.png
+    link: https://rnassist.com/
 #  - name: 
 #    logo_path:
 #    link:
