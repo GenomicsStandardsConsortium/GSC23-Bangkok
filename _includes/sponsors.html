@@ -24,7 +24,7 @@
         {% else %}
         <div>
             {% for 2sponsor in site.data.conference.2sponsors %}
-                <a href="{{ 2sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:20px 20px"width="180" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
+                <a href="{{ 2sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:10px 10px" width="200" src="{{ site.baseurl }}{{ 2sponsor.logo_path }}" alt="{{ 2sponsor.name }}"></a>
             {% endfor %}
         </div>
         {% endif %}
@@ -32,14 +32,14 @@
 <div style="text-align: justify">
 <img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px"><img src="assets/images/silver-tuk-tuk-sponsor.png" alt="Silver sponsor Logo" width="150" height="50" style="vertical-align:middle;margin:11px 11px">
 
-    {% if site.data.conference.3sponsors == nil %}
+    {% if site.data.conference.1sponsors == nil %}
         <div class="alert alert-warning rounded text-center m-1">
             <p>TBA</p>
         </div>
         {% else %}
         <div>
             {% for 3sponsor in site.data.conference.3sponsors %}
-                <a href="{{ 3sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:30px 30px"width="160" src="{{ site.baseurl }}{{ 3sponsor.logo_path }}" alt="{{ 3sponsor.name }}"></a>
+                <a href="{{ 3sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:10px 10px" width="200" src="{{ site.baseurl }}{{ 3sponsor.logo_path }}" alt="{{ 3sponsor.name }}"></a>
             {% endfor %}
         </div>
         {% endif %}
@@ -53,7 +53,7 @@
         </div>
         {% else %}
         <div>
-            {% for 1sponsor in site.data.conference.1sponsors %}
+            {% for 4sponsor in site.data.conference.4sponsors %}
                 <a href="{{ 4sponsor.link }}" target=_blank><img style="vertical-align:middle;margin:10px 10px" width="200" src="{{ site.baseurl }}{{ 4sponsor.logo_path }}" alt="{{ 4sponsor.name }}"></a>
             {% endfor %}
         </div>
