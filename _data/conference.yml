@@ -109,9 +109,16 @@ news:
   - name: GenePlus Co., Ltd.
     logo_path: ./assets/images/sponsors/Gene-Plus-logo-sq-white.png
     link: http://www.gene-plus.com/
+#  - name: Oxford Nanopore Technologies.
+#    logo_path: assets/images/sponsors/
+#    link: 
+#  - name: Zymo
+#    logo_path: assets/images/sponsors/
+#    link: 
 #  - name: InnovaPrep LLC.
 #    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
 #    link: https://www.innovaprep.com/
+
 2sponsors:
   - name: LECO Instruments (Thailand) Ltd.
     logo_path: ./assets/images/sponsors/LECO_Instruments_Thailand_Ltd.png
@@ -135,9 +142,9 @@ news:
     logo_path: ./assets/images/sponsors/Agilent_Logo_Tag_v_RGB.png
     link: https://www.agilent.com
 3sponsors:
-#  - name: Qiagen
-#    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
-#    link: https://www.qiagen.com/
+  - name: China National GeneBank
+    logo_path: ./assets/images/sponsors/CNGB-logo.png
+    link: https://db.cngb.org/
 #  - name: 
 #    logo_path:
 #    link:
@@ -145,9 +152,9 @@ news:
   - name: RNA Assist
     logo_path: ./assets/images/sponsors/RNAAssist.png
     link: https://rnassist.com/
-#  - name: 
-#    logo_path:
-#    link:
+  - name: Scientific Data
+    logo_path: ./assets/images/sponsors/scientificData.png
+    link: https://www.nature.com/sdata/
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
