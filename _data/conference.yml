@@ -131,6 +131,9 @@ news:
   - name: Gibthai Co.,Ltd
     logo_path: ./assets/images/sponsors/Gibthai_Co_Ltd-opaque.png
     link: https://www.gibthai.com
+  - name: Agilent Technologies Singapore Pte Ltd
+    logo_path: ./assets/images/sponsors/Agilent_Logo_Tag_v_RGB.png
+    link: https://www.agilent.com
 3sponsors:
 #  - name: Qiagen
 #    logo_path: ./assets/images/sponsors/qiagen-silver-ring.png
