@@ -109,9 +109,9 @@ news:
   - name: GenePlus Co., Ltd.
     logo_path: ./assets/images/sponsors/Gene-Plus-logo-sq-white.png
     link: http://www.gene-plus.com/
-#  - name: Oxford Nanopore Technologies.
-#    logo_path: assets/images/sponsors/
-#    link: 
+  - name: Oxford Nanopore Technologies.
+    logo_path: ./assets/images/sponsors/ONT-logo.png
+    link: https://nanoporetech.com/
 #  - name: Zymo
 #    logo_path: assets/images/sponsors/
 #    link: 
