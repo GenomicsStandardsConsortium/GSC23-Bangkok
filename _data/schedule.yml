@@ -107,9 +107,9 @@
     endTime: "16:00"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. 
-    Breakout groups (in-person only); findings posted online for input/consultation
-        ● Topic 1. GSC Compliance and Interoperability Working Group OR
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
+    Breakout groups (in-person only); findings posted online for input/consultation<br>
+        ● Topic 1. GSC Compliance and Interoperability Working Group OR<br>
         ● Topic 2. Standards in Personalized Medicine"
     chair: "TBC"
   - startTime: "14:30"
@@ -218,10 +218,10 @@
     endTime: "17:00"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. 
-    Breakout groups (in-person only); findings posted online for input/consultation
-        ● Topic 3. National Microbiome Data Collaborative workshop- Using GSC portal and Standards OR
-        ● Topic 4. Metabolomics Standards OR
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
+    Breakout groups (in-person only); findings posted online for input/consultation<br>
+        ● Topic 3. National Microbiome Data Collaborative workshop- Using GSC portal and Standards OR<br>
+        ● Topic 4. Metabolomics Standards OR<br>
         ● Topic 5. Standardized Protocols"
     chair: "TBC"
 #Day3
@@ -315,8 +315,8 @@
     endTime: "16:00"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. 
-    Breakout groups (in-person only); findings posted online for input/consultation
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
+    Breakout groups (in-person only); findings posted online for input/consultation<br>
         ● Topic 6. Standardising Open Microbiome Data analysis and workflow sharing to further federated resource development"
     chair: "TBC"
   - startTime: "14:30"
