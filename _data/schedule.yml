@@ -311,6 +311,18 @@
     endTime: "13:30"
     title: "Lunch and Networking"
     type: "service"
+  - startTime: "13:30"
+    endTime: "16:00"
+    title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
+    speaker: "Click + to expand"
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. 
+    Breakout groups (in-person only); findings posted online for input/consultation
+        ● Topic 6. Standardising Open Microbiome Data analysis and workflow sharing"
+    chair: "TBC"
+  - startTime: "14:30"
+    endTime: "15:00"
+    title: "Tea, Coffee and Networking"
+    type: "service"   
   - startTime: "18:00"
     endTime: "23:00"
     title: "Closing gathering TBC"  
