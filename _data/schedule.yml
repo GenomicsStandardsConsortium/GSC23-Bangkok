@@ -112,10 +112,7 @@
     endTime: "17:00"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
-    Breakout groups (in-person only); findings posted online for input/consultation<br>
-        ● Topic 1. GSC Compliance and Interoperability Working Group (Chair Chris Hunter) <br>OR<br>
-        ● Topic 2. Standards in Personalized Medicine"
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>    Breakout groups (in-person only); findings posted online for input/consultation<br>        ● Topic 1. GSC Compliance and Interoperability Working Group (Chair Chris Hunter) <br>OR<br>        ● Topic 2. Standards in Personalized Medicine"
     chair: "TBC"
   - startTime: "15:00"
     endTime: "15:30"
@@ -213,11 +210,7 @@
     endTime: "17:00"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
-    Breakout groups (in-person only); findings posted online for input/consultation<br>
-        ● Topic 3. National Microbiome Data Collaborative workshop- Using GSC portal and Standards (Chair Ramona Walls)<br>OR<br>
-        ● Topic 4. Metabolomics Standards <br>OR<br>
-        ● Topic 5. Standardized Protocols"
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>    Breakout groups (in-person only); findings posted online for input/consultation<br>        ● Topic 3. National Microbiome Data Collaborative workshop- Using GSC portal and Standards (Chair Ramona Walls)<br>OR<br>        ● Topic 4. Metabolomics Standards <br>OR<br>        ● Topic 5. Standardized Protocols"
     chair: "TBC"
   - startTime: "15:00"
     endTime: "15:30"
@@ -315,9 +308,7 @@
     endTime: "15:45"
     title: "Afternoon Breakout Sessions - NO VIRTUAL ATTENDANCE"
     speaker: "Click + to expand"
-    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>
-    Breakout groups (in-person only); findings posted online for input/consultation<br>
-        ● Topic 6. Standardising Open Microbiome Data analysis and workflow sharing to further federated resource development"
+    abstract: "Afternoon Breakout Session Options for in-person participants. Summary and/or minutes to be posted for asynchronous input/consultation of virtual participants. <br>    Breakout groups (in-person only); findings posted online for input/consultation<br>        ● Topic 6. Standardising Open Microbiome Data analysis and workflow sharing to further federated resource development"
     chair: "Rob Finn"
   - startTime: "18:00"
     endTime: "23:00"
