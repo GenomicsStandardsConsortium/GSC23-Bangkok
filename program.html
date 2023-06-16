@@ -46,10 +46,11 @@ slide_id: 2
                                 <td width="20%">
                                 </td>
                                 <td class="bg-faded">
-<!--                                    <p class="accordion"><b>{{event.title}}</b></p>
-									<div class="panel"><p>{{event.abstract}}</p></div> reinstate this and remove two lines below, to add accordion for abstracts to all session talks -->
-									<p><b>{{event.title}}</b></p>
-                                    <p><i>{{event.speakers}}</i></p>
+                                    <p><b>{{event.title}}</b></p>
+                                    {% if event.speakers %}
+                                    <h5 class="accordion">{{event.speakers}}</h5>
+									<div class="panel"><p>{{event.abstract}}</p></div>
+									{% endif %}
                                 </td>
                             </tr>
                         {% endfor %}
