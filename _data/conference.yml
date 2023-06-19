@@ -158,6 +158,9 @@ news:
   - name: Eppendorf (Thailand) Co., Ltd.
     logo_path: ./assets/images/sponsors/eppendorf.png
     link: https://www.eppendorf.co.th
+  - name: GigaScience Press
+    logo_path: ./assets/images/sponsors/GSPress.png
+    link: https://www.GigaSciencejournal.com
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
   twitter_link: https://twitter.com/genomestandards
