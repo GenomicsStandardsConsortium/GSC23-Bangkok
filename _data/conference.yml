@@ -105,7 +105,7 @@ news:
     link: https://www.waters.com/nextgen/se/en.html
   - name: RI Technologies Ltd
     logo_path: ./assets/images/sponsors/RI_Technologies_Ltd.png
-    link: www.ri.co.th
+    link: https://www.ri.co.th
   - name: GenePlus Co., Ltd.
     logo_path: ./assets/images/sponsors/Gene-Plus-logo-sq-white.png
     link: http://www.gene-plus.com/
@@ -122,10 +122,10 @@ news:
 2sponsors:
   - name: LECO Instruments (Thailand) Ltd.
     logo_path: ./assets/images/sponsors/LECO_Instruments_Thailand_Ltd.png
-    link:  www.leco.co.th
+    link: https://www.leco.co.th
   - name: Bio-Active Co., Ltd.
     logo_path: ./assets/images/sponsors/Bio-Active_Co_Ltd-sq-white.png
-    link: www.bio-active.co.th
+    link: https://www.bio-active.co.th
   - name: Roche Diagnostics (Thailand) Ltd.
     logo_path: ./assets/images/sponsors/Roche_Diagnostics_Thailand_Ltd-opaque.png
     link: https://sequencing.roche.com/global/en/products/group/avenio-tumor-tissue-cgp-kit.html
