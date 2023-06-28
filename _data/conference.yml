@@ -103,9 +103,9 @@ news:
   - name: Waters
     logo_path: ./assets/images/sponsors/waters-logo-sq-white.png
     link: https://www.waters.com/nextgen/se/en.html
-  - name: RI Technologies Ltd
-    logo_path: ./assets/images/sponsors/RI_Technologies_Ltd.png
-    link: https://www.ri.co.th
+  - name: PacBio
+    logo_path: ./assets/images/sponsors/PacBio-logo.png
+    link: www.pacb.com
   - name: GenePlus Co., Ltd.
     logo_path: ./assets/images/sponsors/Gene-Plus-logo-sq-white.png
     link: http://www.gene-plus.com/
