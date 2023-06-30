@@ -82,7 +82,7 @@
         speakers-link: ""
       - title: "Journal perspective: GigaScience Press"
         link: "https://gigasciencepress.org"
-        abstract: "TBC"
+        abstract: "GigaScience Press (https://www.gigasciencepress.org/) has the goal of achieving true open science by embracing the UNESCO Open Science Recommendation as the primary goal for its publications and activities. A major part of those efforts is the creation and use of GigaDB, the open access repository of datasets directly associated with all GigaScience journal articles. GigaDB datasets are created by the authors with expert guidance from highly experienced data curation staff, making use of relevant standards and ensuring deposition of all relevant data in public repositories. Our curation staff keep themselves abreast of many on-going standards efforts including the GSC MIxS as well as relevant ontologies, and guide authors on their appropriate use in dataset metadata. Here I will present GigaDB and highlight some of the ways we utilise standards in our curation work."
         speakers: "Chris Hunter (GigaScience Press)"
         speakers-link: ""
       - title: "ENA: Improving Experimental metadata standards"
