@@ -115,10 +115,6 @@ news:
   - name: Zymo
     logo_path: assets/images/sponsors/ZymoResearch.jpg
     link: https://www.zymoresearch.com/
-#  - name: InnovaPrep LLC.
-#    logo_path: assets/images/sponsors/innovaprep-pineapple-ring.png
-#    link: https://www.innovaprep.com/
-
 2sponsors:
   - name: LECO Instruments (Thailand) Ltd.
     logo_path: ./assets/images/sponsors/LECO_Instruments_Thailand_Ltd.png
@@ -145,6 +141,9 @@ news:
   - name: China National GeneBank
     logo_path: ./assets/images/sponsors/CNGB-logo.png
     link: https://db.cngb.org/
+  - name: ISME
+    logo_path: assets/images/sponsors/ISME-Logo-Online-GreenBlack.jpg
+    link: https://www.isme-microbes.org/
 #  - name: 
 #    logo_path:
 #    link:
