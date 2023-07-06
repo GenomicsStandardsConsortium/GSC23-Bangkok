@@ -161,7 +161,7 @@ news:
     logo_path: ./assets/images/sponsors/GSPress.png
     link: https://www.GigaSciencejournal.com
   - name: Merck Group
-    logo_path: ./assetts/images/sponsors/merck.png
+    logo_path: ./assets/images/sponsors/merck.png
     link: https://www.merckgroup.com/en
 social_media:
   facebook_link: https://www.facebook.com/groups/819806811402359/about
