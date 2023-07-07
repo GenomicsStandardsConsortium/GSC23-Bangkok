@@ -87,7 +87,7 @@
         speakers-link: ""
       - title: "The DDBJ resources based on standards"
         link: ""
-        abstract: "TBC"
+        abstract: "The [DDBJ (DNA Data Bank of Japan)](https://www.ddbj.nig.ac.jp) Center is a global biological database serving as a comprehensive repository for diverse biological information (https://www.ddbj.nig.ac.jp) . We collect and handle a variety of data types, including raw, assembled, and annotated nucleotide sequence data, as well as functional genomics data (GEA: Genomic Expression Archive), metabolomics data (MetaboBank), and human genetic and phenotypic data (JGA: Japanese Genotype-Phenotype Archive).<br>The DDBJ seeks to broaden its collaboration with other national-class data providers like KOBIC (Korea Bioinformation Center) and BRIN (National Research and Innovation Agency, Indonesia) as a founding member of the International Nucleotide Sequence Database Collaboration (INSDC) with NCBI and EBI. Key components of science are inclusion and FAIR-ness. I will outline the DDBJ databases based on such principles."
         speakers: " Kyung-Bum Lee (DDBJ, Japan)"
         speakers-link: ""
       - title: "National Genomics Data Center (China) perspective on standards"
