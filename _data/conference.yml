@@ -70,6 +70,10 @@ navbar:
     path: /program.html
     visible: True
   - id: 2
+    label: Workshops
+    path: /workshops.html
+    visible: True
+  - id: 2
     label: Venue
     path: /venue.html
     visible: True
