@@ -3,15 +3,7 @@ layout: page
 slide_id: 3
 ---
 <div class="card-block bg-faded">
-WorkshopProgram 
-# GSC23 Bangkok, 11 August 2023
-
-Genomic Standards for Precision Medicine, Agriculture, Comparative Genomics, and Metabolomics
-
-Location:Room 304-305, SiMR Building, Siriraj Hospital Mahidol University, 2 Thanon Wang Lang,
-
-Siriraj, Bangkok Noi, Bangkok 10700, Thailand
-
+# Workshop Program 
 
 The GSC23 Bangkok meeting will be followed by two concurrent industry led workshops.
 Registration for the workshops are independent of the conference registration, but is primarily aimed at conference attendees. Each workshop will last a full day, and be co-located with the main conference in the SiMR building. 
