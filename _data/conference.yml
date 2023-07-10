@@ -159,7 +159,7 @@ news:
     link: https://www.eppendorf.co.th
   - name: GigaScience Press
     logo_path: ./assets/images/sponsors/GSPress.png
-    link: https://www.GigaSciencejournal.com
+    link: http://www.GigaSciencejournal.com
   - name: Merck Group
     logo_path: ./assets/images/sponsors/merck.png
     link: https://www.merckgroup.com/en
