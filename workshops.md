@@ -2,7 +2,7 @@
 layout: page
 slide_id: 3
 ---
-
+<div class="card-block bg-faded">
 WorkshopProgram 
 # GSC23 Bangkok, 11 August 2023
 
@@ -85,4 +85,4 @@ Please note that attendees will be expected to bring along their own laptop comp
 - Programmatic access to MGnify
 - Downstream analysis in Jupyter notebooks, e.g. comparing across datasets
 
-
+</div>
