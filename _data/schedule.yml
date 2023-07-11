@@ -62,7 +62,7 @@
         speakers-link: ""
       - title: "Platinum Sponsor talk 1: Oxford Nanopore (ONT); Game-changer in Epigenetics"
         link: ""
-        abstract: "TBC"
+        abstract: "The application of DNA methylation patterns holds a considerable potential in cancer care, notably improving the processes of classification, diagnosis, prognosis, and treatment response prediction. Oxford Nanopore Technologies (ONT) stands uniquely positioned in this regard, capable of detecting DNA methylation directly from the raw data without additional chemical treatments and offering 'real-time methylation analysis'. This represents an advantage over most next-generation sequencing technologies, which cannot directly distinguish between methylated and unmethylated nucleotides in native DNA. In the GSC23, I will present the application of nanopore technology, focusing on the methylation detection in a key biomarker in cancer samples."
         speakers: "Thidathip Wongsurawat (Representing Oxford Nanopore Technology)"
         speakers-link: ""
   - startTime: "10:45"
