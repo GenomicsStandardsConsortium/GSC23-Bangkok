@@ -294,7 +294,7 @@
         speakers-link: ""
       - title: "Towards producing representative genome catalogues for microbial communities"
         link: ""
-        abstract: "TBC"
+        abstract: "An increasingly common output arising from the analysis of metagenomic datasets is the generation of metagenome-assembled genomes (MAGs). However, the discovery of MAGs is problematics and there are no requirements to archive them in an INSDC database, and comparison of these MAG collections is hampered by the lack of uniformity in their generation, annotation and storage. To address this, we have developed MGnify Genomes, a growing collection of biome-specific microbial genome catalogues generated using MAGs and publicly available isolate genomes from a common biome. Strategies for improving these catalogues and subsequent expansion will be discussed, as well as an outline of how these can be used to contextualise new datasets."
         speakers: "Rob Finn (MGnify, EMBL-EBI, UK)"
         speakers-link: ""
       - title: "How do you achieve standards in taxonomy when taxonomic freedom is paramount?"
