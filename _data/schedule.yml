@@ -46,9 +46,9 @@
     chair: "Manop Pithukpakorn (Faculty of Medicine Siriraj Hospital, Mahidol University)"
     type: "presentation"
     events: 
-      - title: "Curating Clinical Genomes"
+      - title: "Curating Clinical Genomes: Real World Practice of Human Genome Variant Interpretation"
         link: ""
-        abstract: "TBC"
+        abstract: "With the rapid advances in genomic sequencing technology and increased knowledge of genomics in medicine, the integration of genomic data into clinical practice is becoming increasingly important. The ACMG 2015 Standards and Guidelines for the Interpretation of Sequence Variants provide a valuable framework for variant interpretation, but they also have limitations. Real-world data on the clinical significance of many variants is limited, and there are knowledge gaps in our understanding of how variants affect the disease pathogenic mechanisms and clinical phenotypes.<br>The ClinVar database is a valuable resource for variant interpretation, but it is not without its limitations. The database is not comprehensive, and the quality of the data varies. ClinGen specific gene guidelines provide additional information on the interpretation of variants in specific genes but add more complexity to interpretation process.<br>Interpretation of copy number variants (CNV) and splicing variants is particularly challenging. Changes in the number of copies or splice sites of coding sequences do not always alter the gene function. There are no clear guidelines for the interpretation of these variants, and they are often classified as 'uncertain significance.'<br>This presentation will discuss the challenges of curating clinical genomes, and the resources available to help with variant interpretation. The presentation will also discuss the future of clinical genomics, and how we can use genomic data to improve patient care."
         speakers: "Manop Pithukpakorn (Faculty of Medicine Siriraj Hospital, Mahidol University)"
         speakers-link: ""
       - title: "Human Cell Atlas: Putting together reference transcriptomes of all human cells"
