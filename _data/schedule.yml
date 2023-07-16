@@ -144,9 +144,9 @@
     chair: "Sakda Khoomrung (Siriraj Hospital, Mahidol University, Thailand)"
     type: "presentation"
     events: 
-      - title: "Metabolomics standards in clinical research"
+      - title: "Mass spectrometry-based metabolomics standards in clinical research"
         link: ""
-        abstract: "TBC"
+        abstract: "<i>Siriraj Center of Research Excellent in Metabolomics and Systems Biology (SiCORE-MSB), Department of Biochemistry, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand<br>Siriraj Metabolomics and Phenomics Center, Faculty of Medicine Siriraj Hospital, Mahidol University, Bangkok 10700, Thailand<br>Department of Biochemistry, Faculty of Medicine Siriraj Hospital, Mahidol University<br>Center of Excellence for Innovation in Chemistry (PERCH-CIC), Faculty of Science, Mahidol University, Bangkok 10400 Thailand</i><br>Owing to growing interest in personalized medicine, the combination of clinical data, multi-omics data, and systems analysis has been increasingly studied. Mass spectrometry (MS)-based metabolomics is an ideal technology for identifying and quantifying metabolites in various biological samples. Experimental MS workflow, along with advanced bioinformatics, is considered one of the fundamental tools in systems biology for phenotype characterization and the development of precision medicine. In fact, the standardized methods/protocols for metabolomics, including sample preparation, metabolite identification, data processing and analysis, and quantification, represent crucial steps for the translation of research outcomes into clinical practice. Quantitative metabolomics allows the accumulation and comparison of metabolomics data across different studies, which eventually can lead to the establishment of a critical resource for biomarker research, precision medicine, and bridging scientific outcomes with clinical applications. In this talk, I will discuss several fact-based challenges, including metabolite identification, data processing and analysis, and the measurement precision of absolute quantification in clinical research."
         speakers: "Sakda Khoomrung"
         speakers-link: ""
       - title: "Advancements in NMR Metabolomics: Enhancing Sample Handling and Metabolite Identification"
