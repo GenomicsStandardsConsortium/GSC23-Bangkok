@@ -9,10 +9,10 @@
     title: "Student Education Day (talks aimed at students / new to GSC)"
     abstract: "venue"
     link: "https://github.com/GenomicsStandardsConsortium/GSC23-Bangkok/raw/main/assets/GSC23-Student-Eductation-day-agenda.pdf"
-  - startTime: "13:00"
-    endTime: "15:00"
+  - startTime: "14:00"
+    endTime: "17:00"
     title: "GSC Board meeting (board members only)"
-  - startTime: "17:00"
+  - startTime: "19:00"
     endTime: "23:00"
     title: "Welcome to GSC23 Drinks Reception (all GSC23 registered participants)"
 #Day1
