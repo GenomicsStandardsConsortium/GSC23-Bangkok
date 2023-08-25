@@ -58,29 +58,33 @@ slideshow:
     active: True
 navbar:
   - id: 0
-    label: Home
+    label: Thanks
     path: /
+    visible: True
+  - id: 1
+    label: Home
+    path: /home.index.html
     visible: True
 #  - id: 
 #    label: Organization
 #    path: /organization.html
 #    visible: True
-  - id: 1
+  - id: 2
     label: Programs
     path: /program.html
     visible: True
-  - id: 2
+  - id: 3
     label: Workshops
     path: /workshops.html
     visible: True
-  - id: 2
+  - id: 4
     label: Venue
     path: /venue.html
     visible: True
-  - id: 3
-    label: Registration
-    path: /registration.html
-    visible: True
+#  - id: 3
+#    label: Registration
+#    path: /registration.html
+#    visible: True
 #  - id: 4
 #    label: Submission
 #    path: /submission.html
